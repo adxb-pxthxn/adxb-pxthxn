@@ -7,6 +7,6 @@
 <ul>
   <li><strong>Website:</strong> <a href="https://adibp.vercel.app/" target="_blank">adibp.vercel.app</a></li>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/adib-pathan/" target="_blank">Adib Pathan</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.instagram.com/adxb.pxthxn/?hl=en" target="_blank">@adxbpxthxn</a></li>
+  <li><strong>Instagram:</strong> <a href="https://www.instagram.com/adxb.pxthxn/?hl=en" target="_blank">@adxbpxthxn</a></li>
 
 </ul>
